@@ -1,3 +1,6 @@
 *.txt
 *.php
 *.py
+
+
+!abc.txt
